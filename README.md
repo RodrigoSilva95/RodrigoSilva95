@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Silva
 
-- 🤖 Hoje trabalho com Infra/Suport
+- 🤖 Hoje trabalho com Infraestrutura / Suporte
 - 🧠 Estudando e me dedicando ao Front-end
 - 👾 foco em html / css / js / sass
 - 🤔 Contate-me no email: rodrigo-wow@hotmail.com
