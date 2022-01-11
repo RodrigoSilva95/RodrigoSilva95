@@ -3,7 +3,7 @@
 - 🤖 Hoje trabalho com Infraestrutura / Suporte
 - 🧠 Estudando e me dedicando ao Front-end
 - 👾 foco em html / css / js / sass
-- 🤔 Contate-me no email: rodrigo-wow@hotmail.com
+- 🤔 Contate-me no email: rodrigo.limassilva.95@gmail.com
 
 <div align="center">
   <a href="https://github.com/RodrigoSilva95">
@@ -27,6 +27,6 @@ target="_blank"></a>
 target="_blank"></a>
     <a href="https://www.linkedin.com/in/rodrigo-de-lima-santos-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/RodrigoSilva95/RodrigoSilva95/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/RodrigoSilva95/RodrigoSilva95/blob/output/github-contribution-grid-snake.svg)
   
 </div>
