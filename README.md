@@ -9,6 +9,7 @@
   <a href="https://github.com/RodrigoSilva95">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSilva95&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSilva95&layout=compact&langs_count=7&theme=onedark"/>
+  <img align="right" alt="RodrigoSilva" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
