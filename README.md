@@ -1,4 +1,4 @@
-### Fala aew! Eu sou o Rodrigo xD
+### Fala aew! Eu sou o Rodrigo xD 😁👍
 
 - 🤖 Hoje trabalho com Infraestrutura / Suporte
 - 🧠 Estudando e me dedicando ao Front-end
