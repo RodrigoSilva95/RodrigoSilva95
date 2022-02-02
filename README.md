@@ -2,7 +2,7 @@
 
 - 🤖 Hoje trabalho com Infraestrutura / Suporte
 - 🧠 Estudando e me dedicando ao Front-end
-- 👾 foco em html / css / js / sass
+- 🖥️ foco em html / css / js / sass
 - 🤔 Contate-me no email: rodrigo.limassilva.95@gmail.com
 
 <div align="center">
