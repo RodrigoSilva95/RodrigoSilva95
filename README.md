@@ -5,6 +5,10 @@
 - 🖥️ foco em html / css / js / sass
 - 🤔 Contate-me no email: rodrigo.limassilva.95@gmail.com
 
+𝙏𝙤𝙙𝙤 𝙢𝙪𝙣𝙙𝙤 𝙣𝙚𝙨𝙩𝙚 𝙥𝙖𝙞́𝙨 𝙙𝙚𝙫𝙚𝙧𝙞𝙖 𝙖𝙥𝙧𝙚𝙣𝙙𝙚𝙧 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙧 𝙪𝙢 𝙘𝙤𝙢𝙥𝙪𝙩𝙖𝙙𝙤𝙧, 𝙥𝙤𝙧𝙦𝙪𝙚 𝙚𝙣𝙨𝙞𝙣𝙖 𝙘𝙤𝙢𝙤 𝙥𝙚𝙣𝙨𝙖𝙧!
+
+𝘽𝙮 𝙎𝙩𝙚𝙫𝙚 𝙅𝙤𝙗𝙨
+
 <div align="center">
   <a href="https://github.com/RodrigoSilva95">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSilva95&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
